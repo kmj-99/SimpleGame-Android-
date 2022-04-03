@@ -1,5 +1,5 @@
 ## 무당벌레 캐릭터가 금색동전을 먹으면 1점추가 빨간색동전을 먹으면 1점감점하는 식의 간단한 게임을 구현
-### 사용 프레임워크 : AndroidStudio  
+### 사용 프레임워크 : AndroidStudio   
 ### 사용 언어 : kotlin
 ### 핵심 키워드 : Thread , Handler
 
